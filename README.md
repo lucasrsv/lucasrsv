@@ -2,7 +2,7 @@
 
 I'm a computer science undergraduate, currently working with web development and studying android development :).
 <br/>
-Oh, I'm also the biggest Arianator you've ever seen! 💃🎤
+And I'm also the biggest Arianator you've ever seen! 💃🎤
 
 <h3>⌨️ Here are my main skills</h3>
 
