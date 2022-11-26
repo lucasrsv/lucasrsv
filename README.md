@@ -1,6 +1,6 @@
 <h2>Hey there, I'm Lucas!</h2>
 
-I'm a computer science undergraduate, currently working with web development and studying iOS and Flutter development :).
+I'm a computer science undergraduate, currently working with iOS and Flutter development :).
 <br/>
 And I'm also the biggest Arianator you've ever seen! 💃🎤
 
